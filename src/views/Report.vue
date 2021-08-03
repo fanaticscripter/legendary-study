@@ -28,7 +28,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, PropType, Ref, ref, toRefs, watch } from 'vue';
+import { computed, defineComponent, PropType, Ref, ref, toRefs, watch } from 'vue';
 import { useRouter } from 'vue-router';
 
 import { latestReportTimestamp } from '@/reports';
@@ -52,30 +52,34 @@ export default defineComponent({
   setup(props) {
     const router = useRouter();
     const { timestamp } = toRefs(props);
-    const selectedTimestamp = ref(
+    const parsedTimestamp = computed(() =>
       timestamp.value !== undefined ? parseInt(timestamp.value) : latestReportTimestamp
     );
+    const selectedTimestamp = ref(parsedTimestamp.value);
+    watch(timestamp, () => {
+      selectedTimestamp.value = parsedTimestamp.value;
+    });
     const comparedTimestamp: Ref<number | undefined> = ref(undefined);
     const goToLatestReport = () => {
-      selectedTimestamp.value = latestReportTimestamp;
+      router.push({ name: 'home' });
     };
     watch([selectedTimestamp, comparedTimestamp], () => {
-      router.push(
-        comparedTimestamp.value !== undefined
-          ? {
-              name: 'diff',
-              params: {
-                timestamp1: comparedTimestamp.value,
-                timestamp2: selectedTimestamp.value,
-              },
-            }
-          : {
-              name: 'report',
-              params: {
-                timestamp: selectedTimestamp.value,
-              },
-            }
-      );
+      if (comparedTimestamp.value !== undefined) {
+        router.push({
+          name: 'diff',
+          params: {
+            timestamp1: comparedTimestamp.value,
+            timestamp2: selectedTimestamp.value,
+          },
+        });
+      } else if (selectedTimestamp.value !== parsedTimestamp.value) {
+        router.push({
+          name: 'report',
+          params: {
+            timestamp: selectedTimestamp.value,
+          },
+        });
+      }
     });
     return {
       selectedTimestamp,
