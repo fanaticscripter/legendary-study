@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+die () { echo $1 >&2; exit 1; }
+
+here="$(dirname "$0")"
+root=$here/..
+tmpfile="$(mktemp)"
+curl -fsS -o "$tmpfile" "https://eiapi.tcl.sh/legendaries/dbbackup?token=${EIAPI_TOKEN}"
+[[ -s $tmpfile ]] || die 'API request succeeded but response is empty'
+mv "$tmpfile" "$root/public/database.asc"

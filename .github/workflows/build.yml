@@ -15,6 +15,11 @@ jobs:
       - name: Initialize dependencies
         run: |
           make init
+      - name: Download database backup
+        run: |
+          scripts/fetch-database-backup
+        env:
+          EIAPI_TOKEN: ${{ secrets.EIAPI_TOKEN }}
       - name: Build
         run: |
           make
