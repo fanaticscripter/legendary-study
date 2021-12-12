@@ -1,0 +1,52 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2021-12-12 12:00 UTC
+
+Number of players currently enrolled in study: 2466
+Record Extended Henerprise count among Zero Legendary Club players:
+241 (recorded on 2021-11-16)
+
+Number of legendaries possessed by each player:
+- 20: 1 player    (top 0.04%)
+- 19: 1 player    (top 0.08%)
+- 18: 1 player    (top 0.12%)
+- 16: 2 players   (top 0.20%)
+- 14: 3 players   (top 0.32%)
+- 13: 2 players   (top 0.41%)
+- 12: 5 players   (top 0.61%)
+- 11: 9 players   (top 0.97%)
+- 10: 10 players  (top 1.38%)
+- 9:  28 players  (top 2.51%)
+- 8:  52 players  (top 4.62%)
+- 7:  65 players  (top 7.26%)
+- 6:  98 players  (top 11.23%)
+- 5:  178 players (top 18.45%)
+- 4:  234 players (top 27.94%)
+- 3:  249 players (top 38.04%)
+- 2:  284 players (top 49.55%)
+- 1:  371 players (top 64.60%)
+- 0:  873 players
+
+Legendaries seen:
+- tungsten-ankh-3:        1952 (1 per 1.3 players)
+- demeters-necklace-4:    1202 (1 per 2.1 players)
+- aurelian-brooch-4:      721  (1 per 3.4 players)
+- neodymium-medallion-4:  706  (1 per 3.5 players)
+- puzzle-cube-4:          251  (1 per 10 players)
+- beak-of-midas-4:        230  (1 per 11 players)
+- tungsten-ankh-4:        161  (1 per 15 players)
+- the-chalice-4:          129  (1 per 19 players)
+- gusset-4:               83   (1 per 30 players)
+- vial-of-martian-dust-4: 63   (1 per 39 players)
+- interstellar-compass-4: 58   (1 per 43 players)
+- quantum-metronome-4:    22   (1 per 112 players)
+- phoenix-feather-4:      21   (1 per 117 players)
+- carved-rainstick-4:     16   (1 per 154 players)
+- mercurys-lens-4:        12   (1 per 206 players)
+- dilithium-monocle-4:    5    (1 per 493 players)
+- ship-in-a-bottle-4:     4    (1 per 616 players)
+- light-of-eggendil-4:    2    (1 per 1233 players)
+- titanium-actuator-4:    1    (1 per 2466 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
