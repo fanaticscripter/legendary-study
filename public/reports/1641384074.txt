@@ -1,0 +1,52 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2022-01-05 12:01 UTC
+
+Number of players currently enrolled in study: 2379
+Record Extended Henerprise count among Zero Legendary Club players:
+252 (recorded on 2021-12-18)
+
+Number of legendaries possessed by each player:
+- 20: 1 player    (top 0.04%)
+- 19: 2 players   (top 0.13%)
+- 16: 2 players   (top 0.21%)
+- 15: 1 player    (top 0.25%)
+- 14: 2 players   (top 0.34%)
+- 13: 1 player    (top 0.38%)
+- 12: 12 players  (top 0.88%)
+- 11: 15 players  (top 1.51%)
+- 10: 24 players  (top 2.52%)
+- 9:  44 players  (top 4.37%)
+- 8:  60 players  (top 6.89%)
+- 7:  101 players (top 11.14%)
+- 6:  123 players (top 16.31%)
+- 5:  178 players (top 23.79%)
+- 4:  211 players (top 32.66%)
+- 3:  216 players (top 41.74%)
+- 2:  255 players (top 52.46%)
+- 1:  311 players (top 65.53%)
+- 0:  820 players
+
+Legendaries seen:
+- tungsten-ankh-3:        2145 (1 per 1.1 players)
+- demeters-necklace-4:    1360 (1 per 1.7 players)
+- neodymium-medallion-4:  810  (1 per 2.9 players)
+- aurelian-brooch-4:      791  (1 per 3.0 players)
+- puzzle-cube-4:          265  (1 per 9.0 players)
+- beak-of-midas-4:        245  (1 per 10 players)
+- tungsten-ankh-4:        182  (1 per 13 players)
+- the-chalice-4:          123  (1 per 19 players)
+- gusset-4:               87   (1 per 27 players)
+- vial-of-martian-dust-4: 70   (1 per 34 players)
+- interstellar-compass-4: 58   (1 per 41 players)
+- carved-rainstick-4:     22   (1 per 108 players)
+- quantum-metronome-4:    21   (1 per 113 players)
+- phoenix-feather-4:      19   (1 per 125 players)
+- mercurys-lens-4:        13   (1 per 183 players)
+- ship-in-a-bottle-4:     3    (1 per 793 players)
+- dilithium-monocle-4:    2    (1 per 1190 players)
+- light-of-eggendil-4:    2    (1 per 1190 players)
+- titanium-actuator-4:    1    (1 per 2379 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
