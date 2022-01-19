@@ -1,0 +1,52 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2022-01-19 12:01 UTC
+
+Number of players currently enrolled in study: 2469
+Record Extended Henerprise count among Zero Legendary Club players:
+252 (recorded on 2021-12-18)
+
+Number of legendaries possessed by each player:
+- 19: 3 players   (top 0.12%)
+- 17: 1 player    (top 0.16%)
+- 16: 4 players   (top 0.32%)
+- 15: 1 player    (top 0.36%)
+- 14: 5 players   (top 0.57%)
+- 13: 6 players   (top 0.81%)
+- 12: 15 players  (top 1.42%)
+- 11: 20 players  (top 2.23%)
+- 10: 39 players  (top 3.81%)
+- 9:  43 players  (top 5.55%)
+- 8:  77 players  (top 8.67%)
+- 7:  104 players (top 12.88%)
+- 6:  142 players (top 18.63%)
+- 5:  179 players (top 25.88%)
+- 4:  200 players (top 33.98%)
+- 3:  215 players (top 42.69%)
+- 2:  253 players (top 52.94%)
+- 1:  328 players (top 66.22%)
+- 0:  834 players
+
+Legendaries seen:
+- tungsten-ankh-3:        2359 (1 per 1.0 players)
+- demeters-necklace-4:    1479 (1 per 1.7 players)
+- neodymium-medallion-4:  904  (1 per 2.7 players)
+- aurelian-brooch-4:      850  (1 per 2.9 players)
+- puzzle-cube-4:          287  (1 per 8.6 players)
+- beak-of-midas-4:        267  (1 per 9.2 players)
+- tungsten-ankh-4:        225  (1 per 11 players)
+- the-chalice-4:          142  (1 per 17 players)
+- gusset-4:               97   (1 per 25 players)
+- interstellar-compass-4: 70   (1 per 35 players)
+- vial-of-martian-dust-4: 69   (1 per 36 players)
+- quantum-metronome-4:    34   (1 per 73 players)
+- phoenix-feather-4:      25   (1 per 99 players)
+- carved-rainstick-4:     18   (1 per 137 players)
+- mercurys-lens-4:        11   (1 per 224 players)
+- dilithium-monocle-4:    4    (1 per 617 players)
+- ship-in-a-bottle-4:     4    (1 per 617 players)
+- light-of-eggendil-4:    2    (1 per 1234 players)
+- titanium-actuator-4:    1    (1 per 2469 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
