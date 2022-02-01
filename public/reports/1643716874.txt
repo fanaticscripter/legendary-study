@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2022-02-01 12:01 UTC
+
+Number of players currently enrolled in study: 2537
+Record Extended Henerprise count among Zero Legendary Club players:
+252 (recorded on 2021-12-18)
+
+Number of legendaries possessed by each player:
+- 20: 1 player    (top 0.04%)
+- 19: 2 players   (top 0.12%)
+- 17: 4 players   (top 0.28%)
+- 16: 3 players   (top 0.39%)
+- 15: 2 players   (top 0.47%)
+- 14: 10 players  (top 0.87%)
+- 13: 7 players   (top 1.14%)
+- 12: 18 players  (top 1.85%)
+- 11: 26 players  (top 2.88%)
+- 10: 37 players  (top 4.34%)
+- 9:  48 players  (top 6.23%)
+- 8:  90 players  (top 9.78%)
+- 7:  124 players (top 14.66%)
+- 6:  131 players (top 19.83%)
+- 5:  174 players (top 26.69%)
+- 4:  218 players (top 35.28%)
+- 3:  188 players (top 42.69%)
+- 2:  270 players (top 53.33%)
+- 1:  308 players (top 65.47%)
+- 0:  876 players
+
+Legendaries seen:
+- tungsten-ankh-3:        2485 (1 per 1.0 players)
+- demeters-necklace-4:    1589 (1 per 1.6 players)
+- neodymium-medallion-4:  953  (1 per 2.7 players)
+- aurelian-brooch-4:      889  (1 per 2.9 players)
+- puzzle-cube-4:          307  (1 per 8.3 players)
+- beak-of-midas-4:        290  (1 per 8.7 players)
+- tungsten-ankh-4:        241  (1 per 11 players)
+- the-chalice-4:          155  (1 per 16 players)
+- gusset-4:               100  (1 per 25 players)
+- vial-of-martian-dust-4: 85   (1 per 30 players)
+- interstellar-compass-4: 69   (1 per 37 players)
+- quantum-metronome-4:    35   (1 per 72 players)
+- phoenix-feather-4:      24   (1 per 106 players)
+- carved-rainstick-4:     17   (1 per 149 players)
+- mercurys-lens-4:        13   (1 per 195 players)
+- dilithium-monocle-4:    7    (1 per 362 players)
+- ship-in-a-bottle-4:     4    (1 per 634 players)
+- titanium-actuator-4:    3    (1 per 846 players)
+- light-of-eggendil-4:    1    (1 per 2537 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
