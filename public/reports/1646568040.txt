@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2022-03-06 12:00 UTC
+
+Number of players currently enrolled in study: 2621
+Record Extended Henerprise count among Zero Legendary Club players:
+260 (recorded on 2022-03-04)
+
+Number of legendaries possessed by each player:
+- 20: 3 players   (top 0.11%)
+- 19: 2 players   (top 0.19%)
+- 18: 1 player    (top 0.23%)
+- 17: 2 players   (top 0.31%)
+- 16: 3 players   (top 0.42%)
+- 15: 3 players   (top 0.53%)
+- 14: 14 players  (top 1.07%)
+- 13: 11 players  (top 1.49%)
+- 12: 38 players  (top 2.94%)
+- 11: 45 players  (top 4.65%)
+- 10: 46 players  (top 6.41%)
+- 9:  64 players  (top 8.85%)
+- 8:  101 players (top 12.71%)
+- 7:  119 players (top 17.25%)
+- 6:  150 players (top 22.97%)
+- 5:  190 players (top 30.22%)
+- 4:  191 players (top 37.50%)
+- 3:  203 players (top 45.25%)
+- 2:  233 players (top 54.14%)
+- 1:  303 players (top 65.70%)
+- 0:  899 players
+
+Legendaries seen:
+- tungsten-ankh-3:        2841 (1 per 0.9 players)
+- demeters-necklace-4:    1783 (1 per 1.5 players)
+- neodymium-medallion-4:  1078 (1 per 2.4 players)
+- aurelian-brooch-4:      1028 (1 per 2.5 players)
+- puzzle-cube-4:          354  (1 per 7.4 players)
+- beak-of-midas-4:        325  (1 per 8.1 players)
+- tungsten-ankh-4:        233  (1 per 11 players)
+- the-chalice-4:          184  (1 per 14 players)
+- gusset-4:               109  (1 per 24 players)
+- vial-of-martian-dust-4: 93   (1 per 28 players)
+- interstellar-compass-4: 73   (1 per 36 players)
+- quantum-metronome-4:    31   (1 per 85 players)
+- phoenix-feather-4:      22   (1 per 119 players)
+- carved-rainstick-4:     20   (1 per 131 players)
+- mercurys-lens-4:        17   (1 per 154 players)
+- ship-in-a-bottle-4:     5    (1 per 524 players)
+- dilithium-monocle-4:    4    (1 per 655 players)
+- light-of-eggendil-4:    2    (1 per 1310 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
