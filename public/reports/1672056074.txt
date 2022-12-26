@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2022-12-26 12:01 UTC
+
+Number of players currently enrolled in study: 1918
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 30 players  (top 1.56%)
+- 19: 28 players  (top 3.02%)
+- 18: 32 players  (top 4.69%)
+- 17: 44 players  (top 6.99%)
+- 16: 35 players  (top 8.81%)
+- 15: 41 players  (top 10.95%)
+- 14: 45 players  (top 13.30%)
+- 13: 47 players  (top 15.75%)
+- 12: 59 players  (top 18.82%)
+- 11: 57 players  (top 21.79%)
+- 10: 61 players  (top 24.97%)
+- 9:  76 players  (top 28.94%)
+- 8:  59 players  (top 32.01%)
+- 7:  65 players  (top 35.40%)
+- 6:  75 players  (top 39.31%)
+- 5:  104 players (top 44.73%)
+- 4:  109 players (top 50.42%)
+- 3:  127 players (top 57.04%)
+- 2:  142 players (top 64.44%)
+- 1:  180 players (top 73.83%)
+- 0:  502 players
+
+Legendaries seen:
+- tungsten-ankh-3:        3517 (1 per 0.5 players)
+- demeters-necklace-4:    2330 (1 per 0.8 players)
+- neodymium-medallion-4:  1462 (1 per 1.3 players)
+- aurelian-brooch-4:      1346 (1 per 1.4 players)
+- puzzle-cube-4:          465  (1 per 4.1 players)
+- beak-of-midas-4:        447  (1 per 4.3 players)
+- tungsten-ankh-4:        335  (1 per 5.7 players)
+- the-chalice-4:          274  (1 per 7.0 players)
+- gusset-4:               154  (1 per 12 players)
+- vial-of-martian-dust-4: 131  (1 per 15 players)
+- interstellar-compass-4: 88   (1 per 22 players)
+- quantum-metronome-4:    33   (1 per 58 players)
+- phoenix-feather-4:      29   (1 per 66 players)
+- carved-rainstick-4:     28   (1 per 68 players)
+- mercurys-lens-4:        23   (1 per 83 players)
+- dilithium-monocle-4:    14   (1 per 137 players)
+- ship-in-a-bottle-4:     2    (1 per 959 players)
+- titanium-actuator-4:    1    (1 per 1918 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
