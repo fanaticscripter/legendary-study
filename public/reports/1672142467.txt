@@ -1,0 +1,54 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2022-12-27 12:01 UTC
+
+Number of players currently enrolled in study: 1904
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 30 players  (top 1.58%)
+- 19: 27 players  (top 2.99%)
+- 18: 32 players  (top 4.67%)
+- 17: 45 players  (top 7.04%)
+- 16: 34 players  (top 8.82%)
+- 15: 39 players  (top 10.87%)
+- 14: 47 players  (top 13.34%)
+- 13: 47 players  (top 15.81%)
+- 12: 56 players  (top 18.75%)
+- 11: 57 players  (top 21.74%)
+- 10: 63 players  (top 25.05%)
+- 9:  75 players  (top 28.99%)
+- 8:  57 players  (top 31.99%)
+- 7:  65 players  (top 35.40%)
+- 6:  78 players  (top 39.50%)
+- 5:  104 players (top 44.96%)
+- 4:  107 players (top 50.58%)
+- 3:  124 players (top 57.09%)
+- 2:  140 players (top 64.44%)
+- 1:  179 players (top 73.84%)
+- 0:  498 players
+
+Legendaries seen:
+- tungsten-ankh-3:        3510 (1 per 0.5 players)
+- demeters-necklace-4:    2331 (1 per 0.8 players)
+- neodymium-medallion-4:  1445 (1 per 1.3 players)
+- aurelian-brooch-4:      1337 (1 per 1.4 players)
+- puzzle-cube-4:          463  (1 per 4.1 players)
+- beak-of-midas-4:        441  (1 per 4.3 players)
+- tungsten-ankh-4:        327  (1 per 5.8 players)
+- the-chalice-4:          269  (1 per 7.1 players)
+- gusset-4:               153  (1 per 12 players)
+- vial-of-martian-dust-4: 129  (1 per 15 players)
+- interstellar-compass-4: 84   (1 per 23 players)
+- quantum-metronome-4:    33   (1 per 58 players)
+- carved-rainstick-4:     27   (1 per 71 players)
+- phoenix-feather-4:      26   (1 per 73 players)
+- mercurys-lens-4:        21   (1 per 91 players)
+- dilithium-monocle-4:    14   (1 per 136 players)
+- ship-in-a-bottle-4:     2    (1 per 952 players)
+- light-of-eggendil-4:    1    (1 per 1904 players)
+- titanium-actuator-4:    1    (1 per 1904 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
