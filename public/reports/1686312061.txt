@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2023-06-09 12:01 UTC
+
+Number of players currently enrolled in study: 871
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 12 players  (top 1.38%)
+- 19: 13 players  (top 2.87%)
+- 18: 14 players  (top 4.48%)
+- 17: 28 players  (top 7.69%)
+- 16: 15 players  (top 9.41%)
+- 15: 16 players  (top 11.25%)
+- 14: 20 players  (top 13.55%)
+- 13: 21 players  (top 15.96%)
+- 12: 16 players  (top 17.80%)
+- 11: 24 players  (top 20.55%)
+- 10: 24 players  (top 23.31%)
+- 9:  27 players  (top 26.41%)
+- 8:  29 players  (top 29.74%)
+- 7:  34 players  (top 33.64%)
+- 6:  37 players  (top 37.89%)
+- 5:  41 players  (top 42.59%)
+- 4:  41 players  (top 47.30%)
+- 3:  51 players  (top 53.16%)
+- 2:  69 players  (top 61.08%)
+- 1:  73 players  (top 69.46%)
+- 0:  266 players
+
+Legendaries seen:
+- tungsten-ankh-3:        1507 (1 per 0.6 players)
+- demeters-necklace-4:    1006 (1 per 0.9 players)
+- neodymium-medallion-4:  599  (1 per 1.5 players)
+- aurelian-brooch-4:      569  (1 per 1.5 players)
+- puzzle-cube-4:          232  (1 per 3.8 players)
+- beak-of-midas-4:        206  (1 per 4.2 players)
+- tungsten-ankh-4:        159  (1 per 5.5 players)
+- the-chalice-4:          95   (1 per 9.2 players)
+- gusset-4:               73   (1 per 12 players)
+- vial-of-martian-dust-4: 69   (1 per 13 players)
+- interstellar-compass-4: 46   (1 per 19 players)
+- quantum-metronome-4:    17   (1 per 51 players)
+- carved-rainstick-4:     14   (1 per 62 players)
+- phoenix-feather-4:      11   (1 per 79 players)
+- dilithium-monocle-4:    6    (1 per 145 players)
+- light-of-eggendil-4:    1    (1 per 871 players)
+- mercurys-lens-4:        1    (1 per 871 players)
+- titanium-actuator-4:    1    (1 per 871 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
