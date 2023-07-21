@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2023-07-21 12:00 UTC
+
+Number of players currently enrolled in study: 738
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 19 players  (top 2.57%)
+- 19: 20 players  (top 5.28%)
+- 18: 14 players  (top 7.18%)
+- 17: 18 players  (top 9.62%)
+- 16: 21 players  (top 12.47%)
+- 15: 12 players  (top 14.09%)
+- 14: 24 players  (top 17.34%)
+- 13: 22 players  (top 20.33%)
+- 12: 19 players  (top 22.90%)
+- 11: 25 players  (top 26.29%)
+- 10: 21 players  (top 29.13%)
+- 9:  27 players  (top 32.79%)
+- 8:  30 players  (top 36.86%)
+- 7:  20 players  (top 39.57%)
+- 6:  27 players  (top 43.22%)
+- 5:  32 players  (top 47.56%)
+- 4:  30 players  (top 51.63%)
+- 3:  28 players  (top 55.42%)
+- 2:  43 players  (top 61.25%)
+- 1:  71 players  (top 70.87%)
+- 0:  215 players
+
+Legendaries seen:
+- tungsten-ankh-3:        1406 (1 per 0.5 players)
+- demeters-necklace-4:    973  (1 per 0.8 players)
+- neodymium-medallion-4:  613  (1 per 1.2 players)
+- aurelian-brooch-4:      525  (1 per 1.4 players)
+- puzzle-cube-4:          235  (1 per 3.1 players)
+- beak-of-midas-4:        184  (1 per 4.0 players)
+- tungsten-ankh-4:        171  (1 per 4.3 players)
+- the-chalice-4:          107  (1 per 6.9 players)
+- gusset-4:               77   (1 per 10 players)
+- vial-of-martian-dust-4: 70   (1 per 11 players)
+- interstellar-compass-4: 42   (1 per 18 players)
+- carved-rainstick-4:     18   (1 per 41 players)
+- quantum-metronome-4:    17   (1 per 43 players)
+- phoenix-feather-4:      14   (1 per 53 players)
+- dilithium-monocle-4:    8    (1 per 92 players)
+- mercurys-lens-4:        8    (1 per 92 players)
+- titanium-actuator-4:    6    (1 per 123 players)
+- light-of-eggendil-4:    1    (1 per 738 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
