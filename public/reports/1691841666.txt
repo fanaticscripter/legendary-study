@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2023-08-12 12:01 UTC
+
+Number of players currently enrolled in study: 580
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 10 players  (top 1.72%)
+- 19: 12 players  (top 3.79%)
+- 18: 9 players   (top 5.34%)
+- 17: 15 players  (top 7.93%)
+- 16: 13 players  (top 10.17%)
+- 15: 7 players   (top 11.38%)
+- 14: 24 players  (top 15.52%)
+- 13: 17 players  (top 18.45%)
+- 12: 11 players  (top 20.34%)
+- 11: 13 players  (top 22.59%)
+- 10: 6 players   (top 23.62%)
+- 9:  14 players  (top 26.03%)
+- 8:  21 players  (top 29.66%)
+- 7:  21 players  (top 33.28%)
+- 6:  15 players  (top 35.86%)
+- 5:  27 players  (top 40.52%)
+- 4:  24 players  (top 44.66%)
+- 3:  24 players  (top 48.79%)
+- 2:  33 players  (top 54.48%)
+- 1:  63 players  (top 65.34%)
+- 0:  201 players
+
+Legendaries seen:
+- tungsten-ankh-3:        934 (1 per 0.6 players)
+- demeters-necklace-4:    648 (1 per 0.9 players)
+- neodymium-medallion-4:  402 (1 per 1.4 players)
+- aurelian-brooch-4:      380 (1 per 1.5 players)
+- puzzle-cube-4:          153 (1 per 3.8 players)
+- tungsten-ankh-4:        127 (1 per 4.6 players)
+- beak-of-midas-4:        115 (1 per 5.0 players)
+- the-chalice-4:          74  (1 per 7.8 players)
+- gusset-4:               54  (1 per 11 players)
+- interstellar-compass-4: 37  (1 per 16 players)
+- vial-of-martian-dust-4: 37  (1 per 16 players)
+- quantum-metronome-4:    17  (1 per 34 players)
+- carved-rainstick-4:     11  (1 per 53 players)
+- phoenix-feather-4:      7   (1 per 83 players)
+- mercurys-lens-4:        6   (1 per 97 players)
+- dilithium-monocle-4:    5   (1 per 116 players)
+- titanium-actuator-4:    5   (1 per 116 players)
+- ship-in-a-bottle-4:     1   (1 per 580 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
