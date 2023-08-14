@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2023-08-14 12:00 UTC
+
+Number of players currently enrolled in study: 471
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 2 players   (top 0.42%)
+- 19: 7 players   (top 1.91%)
+- 18: 5 players   (top 2.97%)
+- 17: 12 players  (top 5.52%)
+- 16: 8 players   (top 7.22%)
+- 15: 6 players   (top 8.49%)
+- 14: 13 players  (top 11.25%)
+- 13: 12 players  (top 13.80%)
+- 12: 9 players   (top 15.71%)
+- 11: 11 players  (top 18.05%)
+- 10: 3 players   (top 18.68%)
+- 9:  11 players  (top 21.02%)
+- 8:  19 players  (top 25.05%)
+- 7:  17 players  (top 28.66%)
+- 6:  10 players  (top 30.79%)
+- 5:  23 players  (top 35.67%)
+- 4:  17 players  (top 39.28%)
+- 3:  21 players  (top 43.74%)
+- 2:  21 players  (top 48.20%)
+- 1:  57 players  (top 60.30%)
+- 0:  187 players
+
+Legendaries seen:
+- tungsten-ankh-3:        651 (1 per 0.7 players)
+- demeters-necklace-4:    448 (1 per 1.1 players)
+- neodymium-medallion-4:  286 (1 per 1.6 players)
+- aurelian-brooch-4:      264 (1 per 1.8 players)
+- puzzle-cube-4:          96  (1 per 4.9 players)
+- tungsten-ankh-4:        83  (1 per 5.7 players)
+- beak-of-midas-4:        75  (1 per 6.3 players)
+- the-chalice-4:          42  (1 per 11 players)
+- gusset-4:               34  (1 per 14 players)
+- vial-of-martian-dust-4: 22  (1 per 21 players)
+- interstellar-compass-4: 20  (1 per 24 players)
+- quantum-metronome-4:    12  (1 per 39 players)
+- carved-rainstick-4:     8   (1 per 59 players)
+- dilithium-monocle-4:    5   (1 per 94 players)
+- mercurys-lens-4:        4   (1 per 118 players)
+- titanium-actuator-4:    4   (1 per 118 players)
+- phoenix-feather-4:      2   (1 per 236 players)
+- ship-in-a-bottle-4:     1   (1 per 471 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
