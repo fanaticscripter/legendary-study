@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2023-09-01 12:00 UTC
+
+Number of players currently enrolled in study: 430
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 4 players   (top 0.93%)
+- 19: 6 players   (top 2.33%)
+- 18: 3 players   (top 3.02%)
+- 17: 6 players   (top 4.42%)
+- 16: 6 players   (top 5.81%)
+- 15: 10 players  (top 8.14%)
+- 14: 11 players  (top 10.70%)
+- 13: 7 players   (top 12.33%)
+- 12: 12 players  (top 15.12%)
+- 11: 8 players   (top 16.98%)
+- 10: 6 players   (top 18.37%)
+- 9:  8 players   (top 20.23%)
+- 8:  13 players  (top 23.26%)
+- 7:  13 players  (top 26.28%)
+- 6:  7 players   (top 27.91%)
+- 5:  18 players  (top 32.09%)
+- 4:  17 players  (top 36.05%)
+- 3:  22 players  (top 41.16%)
+- 2:  19 players  (top 45.58%)
+- 1:  41 players  (top 55.12%)
+- 0:  193 players
+
+Legendaries seen:
+- tungsten-ankh-3:        528 (1 per 0.8 players)
+- demeters-necklace-4:    381 (1 per 1.1 players)
+- neodymium-medallion-4:  228 (1 per 1.9 players)
+- aurelian-brooch-4:      215 (1 per 2.0 players)
+- puzzle-cube-4:          97  (1 per 4.4 players)
+- beak-of-midas-4:        77  (1 per 5.6 players)
+- tungsten-ankh-4:        65  (1 per 6.6 players)
+- the-chalice-4:          41  (1 per 10 players)
+- gusset-4:               37  (1 per 12 players)
+- vial-of-martian-dust-4: 31  (1 per 14 players)
+- interstellar-compass-4: 15  (1 per 29 players)
+- carved-rainstick-4:     9   (1 per 48 players)
+- quantum-metronome-4:    7   (1 per 61 players)
+- mercurys-lens-4:        4   (1 per 108 players)
+- titanium-actuator-4:    4   (1 per 108 players)
+- phoenix-feather-4:      3   (1 per 143 players)
+- dilithium-monocle-4:    2   (1 per 215 players)
+- ship-in-a-bottle-4:     1   (1 per 430 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
