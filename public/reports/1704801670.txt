@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2024-01-09 12:01 UTC
+
+Number of players currently enrolled in study: 319
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 1 player    (top 0.31%)
+- 19: 4 players   (top 1.57%)
+- 18: 2 players   (top 2.19%)
+- 17: 7 players   (top 4.39%)
+- 16: 1 player    (top 4.70%)
+- 15: 1 player    (top 5.02%)
+- 14: 5 players   (top 6.58%)
+- 13: 1 player    (top 6.90%)
+- 12: 5 players   (top 8.46%)
+- 11: 4 players   (top 9.72%)
+- 10: 3 players   (top 10.66%)
+- 9:  6 players   (top 12.54%)
+- 8:  3 players   (top 13.48%)
+- 7:  7 players   (top 15.67%)
+- 6:  2 players   (top 16.30%)
+- 5:  8 players   (top 18.81%)
+- 4:  10 players  (top 21.94%)
+- 3:  10 players  (top 25.08%)
+- 2:  14 players  (top 29.47%)
+- 1:  33 players  (top 39.81%)
+- 0:  192 players
+
+Legendaries seen:
+- tungsten-ankh-3:        226 (1 per 1.4 players)
+- demeters-necklace-4:    161 (1 per 2.0 players)
+- aurelian-brooch-4:      105 (1 per 3.0 players)
+- neodymium-medallion-4:  104 (1 per 3.1 players)
+- beak-of-midas-4:        45  (1 per 7.1 players)
+- puzzle-cube-4:          43  (1 per 7.4 players)
+- tungsten-ankh-4:        37  (1 per 8.6 players)
+- the-chalice-4:          26  (1 per 12 players)
+- gusset-4:               18  (1 per 18 players)
+- vial-of-martian-dust-4: 13  (1 per 25 players)
+- carved-rainstick-4:     8   (1 per 40 players)
+- interstellar-compass-4: 8   (1 per 40 players)
+- quantum-metronome-4:    5   (1 per 64 players)
+- mercurys-lens-4:        4   (1 per 80 players)
+- dilithium-monocle-4:    3   (1 per 106 players)
+- light-of-eggendil-4:    1   (1 per 319 players)
+- phoenix-feather-4:      1   (1 per 319 players)
+- titanium-actuator-4:    1   (1 per 319 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
