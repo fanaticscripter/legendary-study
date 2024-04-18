@@ -1,0 +1,54 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2024-04-18 12:00 UTC
+
+Number of players currently enrolled in study: 309
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 2 players   (top 0.65%)
+- 19: 1 player    (top 0.97%)
+- 18: 3 players   (top 1.94%)
+- 17: 4 players   (top 3.24%)
+- 16: 2 players   (top 3.88%)
+- 15: 3 players   (top 4.85%)
+- 14: 8 players   (top 7.44%)
+- 13: 2 players   (top 8.09%)
+- 12: 3 players   (top 9.06%)
+- 11: 3 players   (top 10.03%)
+- 10: 6 players   (top 11.97%)
+- 9:  5 players   (top 13.59%)
+- 8:  7 players   (top 15.86%)
+- 7:  2 players   (top 16.50%)
+- 6:  6 players   (top 18.45%)
+- 5:  9 players   (top 21.36%)
+- 4:  13 players  (top 25.57%)
+- 3:  12 players  (top 29.45%)
+- 2:  18 players  (top 35.28%)
+- 1:  30 players  (top 44.98%)
+- 0:  170 players
+
+Legendaries seen:
+- tungsten-ankh-3:        220 (1 per 1.4 players)
+- demeters-necklace-4:    195 (1 per 1.6 players)
+- neodymium-medallion-4:  128 (1 per 2.4 players)
+- aurelian-brooch-4:      117 (1 per 2.6 players)
+- puzzle-cube-4:          48  (1 per 6.4 players)
+- beak-of-midas-4:        42  (1 per 7.4 players)
+- tungsten-ankh-4:        37  (1 per 8.4 players)
+- gusset-4:               21  (1 per 15 players)
+- the-chalice-4:          19  (1 per 16 players)
+- vial-of-martian-dust-4: 14  (1 per 22 players)
+- interstellar-compass-4: 9   (1 per 34 players)
+- quantum-metronome-4:    8   (1 per 39 players)
+- carved-rainstick-4:     5   (1 per 62 players)
+- mercurys-lens-4:        5   (1 per 62 players)
+- lunar-totem-4:          2   (1 per 154 players)
+- phoenix-feather-4:      2   (1 per 154 players)
+- dilithium-monocle-4:    1   (1 per 309 players)
+- light-of-eggendil-4:    1   (1 per 309 players)
+- titanium-actuator-4:    1   (1 per 309 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
