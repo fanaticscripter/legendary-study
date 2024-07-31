@@ -1,0 +1,53 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2024-07-31 12:01 UTC
+
+Number of players currently enrolled in study: 266
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 4 players   (top 1.50%)
+- 19: 1 player    (top 1.88%)
+- 18: 5 players   (top 3.76%)
+- 17: 5 players   (top 5.64%)
+- 16: 3 players   (top 6.77%)
+- 15: 2 players   (top 7.52%)
+- 14: 5 players   (top 9.40%)
+- 13: 2 players   (top 10.15%)
+- 12: 4 players   (top 11.65%)
+- 11: 9 players   (top 15.04%)
+- 10: 6 players   (top 17.29%)
+- 9:  5 players   (top 19.17%)
+- 8:  3 players   (top 20.30%)
+- 7:  2 players   (top 21.05%)
+- 6:  6 players   (top 23.31%)
+- 5:  10 players  (top 27.07%)
+- 4:  3 players   (top 28.20%)
+- 3:  8 players   (top 31.20%)
+- 2:  13 players  (top 36.09%)
+- 1:  22 players  (top 44.36%)
+- 0:  148 players
+
+Legendaries seen:
+- tungsten-ankh-3:        253 (1 per 1.1 players)
+- demeters-necklace-4:    220 (1 per 1.2 players)
+- aurelian-brooch-4:      115 (1 per 2.3 players)
+- neodymium-medallion-4:  112 (1 per 2.4 players)
+- beak-of-midas-4:        41  (1 per 6.5 players)
+- puzzle-cube-4:          41  (1 per 6.5 players)
+- tungsten-ankh-4:        30  (1 per 8.9 players)
+- the-chalice-4:          22  (1 per 12 players)
+- gusset-4:               17  (1 per 16 players)
+- vial-of-martian-dust-4: 17  (1 per 16 players)
+- interstellar-compass-4: 14  (1 per 19 players)
+- carved-rainstick-4:     9   (1 per 30 players)
+- lunar-totem-4:          8   (1 per 33 players)
+- phoenix-feather-4:      5   (1 per 53 players)
+- mercurys-lens-4:        1   (1 per 266 players)
+- quantum-metronome-4:    1   (1 per 266 players)
+- ship-in-a-bottle-4:     1   (1 per 266 players)
+- titanium-actuator-4:    1   (1 per 266 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
