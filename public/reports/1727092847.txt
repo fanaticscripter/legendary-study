@@ -1,0 +1,49 @@
+Legendaries study rolling report (last 30 days)
+===============================================
+Updated 2024-09-23 12:00 UTC
+
+Number of players currently enrolled in study: 207
+Record Extended Henerprise count among Zero Legendary Club players:
+359 (recorded on 2022-06-19)
+
+Number of legendaries possessed by each player:
+- 20: 1 player    (top 0.48%)
+- 19: 2 players   (top 1.45%)
+- 17: 1 player    (top 1.93%)
+- 16: 2 players   (top 2.90%)
+- 15: 1 player    (top 3.38%)
+- 14: 5 players   (top 5.80%)
+- 13: 1 player    (top 6.28%)
+- 12: 2 players   (top 7.25%)
+- 11: 1 player    (top 7.73%)
+- 10: 3 players   (top 9.18%)
+- 9:  3 players   (top 10.63%)
+- 8:  4 players   (top 12.56%)
+- 7:  8 players   (top 16.43%)
+- 6:  4 players   (top 18.36%)
+- 5:  5 players   (top 20.77%)
+- 4:  9 players   (top 25.12%)
+- 3:  7 players   (top 28.50%)
+- 2:  8 players   (top 32.37%)
+- 1:  27 players  (top 45.41%)
+- 0:  113 players
+
+Legendaries seen:
+- tungsten-ankh-3:        154 (1 per 1.3 players)
+- demeters-necklace-4:    118 (1 per 1.8 players)
+- neodymium-medallion-4:  68  (1 per 3.0 players)
+- aurelian-brooch-4:      64  (1 per 3.2 players)
+- beak-of-midas-4:        28  (1 per 7.4 players)
+- tungsten-ankh-4:        24  (1 per 8.6 players)
+- puzzle-cube-4:          20  (1 per 10 players)
+- gusset-4:               16  (1 per 13 players)
+- the-chalice-4:          16  (1 per 13 players)
+- lunar-totem-4:          7   (1 per 30 players)
+- vial-of-martian-dust-4: 7   (1 per 30 players)
+- interstellar-compass-4: 6   (1 per 34 players)
+- quantum-metronome-4:    3   (1 per 69 players)
+- titanium-actuator-4:    2   (1 per 104 players)
+- carved-rainstick-4:     1   (1 per 207 players)
+
+Obviously cheating players have been excluded from the report.
+(There are certainly cheaters who slipped through.)
